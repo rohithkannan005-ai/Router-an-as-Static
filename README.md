@@ -1,4 +1,4 @@
-# Router-an-as-Static
+# Router-an-a-Stick
 Router on a Stick
 # Router-on-a-Stick Inter-VLAN Routing - Cisco Packet Tracer
 
